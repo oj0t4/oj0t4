@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**oj0t4/oj0t4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+╔═══════════════════════════════════════════╗
+║   iniciando minha jornada em engenharia   ║
+╚═══════════════════════════════════════════╝
+```
 
-Here are some ideas to get you started:
+# Jorge Francisco Gonçalves
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Engenheiro de Software · Em construção**
+
+*Cada linha de código é um passo a mais.*
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oj0t4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
+
+---
+
+### Atualmente
+
+- 🚀 Dando os primeiros passos em engenharia de software
+- 📚 Aprendendo e construindo aos poucos
+- 🔍 Explorando backend e DevOps
+
+---
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-gonçalves-725050351)
+
+---
+
+```bash
+$ whoami
+> engenheiro em formação. cada commit conta.
+```
+
+</div>
