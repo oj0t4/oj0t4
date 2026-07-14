@@ -25,7 +25,7 @@
 
 ### 🚀 Projetos e Desafios
 * **[Validador RU - Uninter](https://github.com/oj0t4/validador-ru-uninter):** Um script criado para verificar e garantir o formato correto do Registro Universitário (RU) de alunos da instituição. Uma excelente aplicação prática de lógica de programação e tratamento de dados para resolver uma necessidade real de validação.
-* **[Desafios Codewars](adicione-o-link-do-seu-repositorio-aqui):** Repositório dedicado a documentar minha evolução diária na resolução de problemas de lógica e algoritmos na plataforma Codewars, aprimorando meu raciocínio analítico.
+* **[Desafios Codewars]((https://github.com/oj0t4/meus-desafios-codewars)):** Repositório dedicado a documentar minha evolução diária na resolução de problemas de lógica e algoritmos na plataforma Codewars, aprimorando meu raciocínio analítico.
 
 <br>
 
